@@ -14,6 +14,7 @@ Quản lý dự án: Maven (đối với file pom.xml).
 Công cụ phát triển: IntelliJ IDEA.
 
 🚀 Tính năng chính
+
 Kiểm thử đăng nhập: Tự động hóa quy trình đăng nhập vào hệ thống POS.
 
 Kiểm thử quản lý bán hàng: Kiểm thử quy trình bán hàng, thêm sản phẩm, thay đổi số lượng hàng hóa à  tính tiền thừa khách trả.
